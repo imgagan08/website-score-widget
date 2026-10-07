@@ -1,0 +1,19 @@
+# SiteIndex Website Score
+
+> Free, embeddable website audit widget. Paste any public URL to score SEO, performance, security, and accessibility. No signup.
+
+## Embed the full audit widget
+<iframe src="https://www.siteindex.app/embed/website-score" width="100%" height="1100" style="border:0;border-radius:12px" title="Free Website SEO Score Checker"></iframe>
+
+## Embed a per-domain score badge
+https://www.siteindex.app/embed/website-score/{domain}?style=standard
+
+## Links
+- Tool: https://www.siteindex.app/tools/website-score
+- Embed: https://www.siteindex.app/embed/website-score
+- Demo and docs: https://imgagan08.github.io/website-score-widget/
+- Source: https://github.com/imgagan08/website-score-widget
+
+## Notes
+- Audits one public page per run; informational heuristic, not a Google ranking score.
+- Score history stored privately in the visitor's browser (local storage).
